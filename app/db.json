@@ -1,3 +1,81 @@
 {
-  "monthly-planning": []
+  "monthly-planning": [
+    {
+      "id": "16fe",
+      "title": "Avanade",
+      "category": "salário",
+      "type": "revenue",
+      "value": 4500
+    },
+    {
+      "id": "c57f",
+      "title": "aluguel",
+      "category": "moradia",
+      "type": "expense",
+      "value": 1000
+    },
+    {
+      "id": "c585",
+      "title": "água",
+      "category": "moradia",
+      "type": "expense",
+      "value": 96
+    },
+    {
+      "id": "4d65",
+      "title": "luz",
+      "category": "moradia",
+      "type": "expense",
+      "value": 230
+    },
+    {
+      "id": "e7cc",
+      "title": "internet",
+      "category": "moradia",
+      "type": "expense",
+      "value": 70
+    },
+    {
+      "id": "5703",
+      "title": "psicólogo",
+      "category": "saúde",
+      "type": "expense",
+      "value": 240
+    },
+    {
+      "id": "6da5",
+      "title": "psicóloga talyta",
+      "category": "saúde",
+      "type": "expense",
+      "value": 200
+    },
+    {
+      "id": "f6ce",
+      "title": "remédios talyta",
+      "category": "farmácia",
+      "type": "expense",
+      "value": 500
+    },
+    {
+      "id": "42e9",
+      "title": "psiquiatra talyta",
+      "category": "saúde",
+      "type": "expense",
+      "value": 180
+    },
+    {
+      "id": "7431",
+      "title": "ração",
+      "category": "pets",
+      "type": "expense",
+      "value": 160
+    },
+    {
+      "id": "73f6",
+      "title": "sílica/areia",
+      "category": "pets",
+      "type": "expense",
+      "value": 80
+    }
+  ]
 }
